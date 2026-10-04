@@ -1,0 +1,30 @@
+{
+  "name": "scrollnt-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Scrolln't — Savage Cyberpunk Dopamine Detox & Focus App Frontend",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "framer-motion": "^13.0.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-native-web": "^0.21.2",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0",
+    "vite": "^8.0.0"
+  }
+}

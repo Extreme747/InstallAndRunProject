@@ -1,0 +1,10 @@
+{
+  "description": "Designed for Gen Z, this fun productivity app helps users combat doomscrolling with a meme-driven focus timer, encouraging productivity and streak building.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
